@@ -12,11 +12,6 @@ sudo mkdir /usr/local/share/emacs/24.4/etc/charsets
 sudo cp ./charsets/* /usr/local/share/emacs/24.4/etc/charsets/
 ```
 
-### Install node.js
-```
-sudo dpkg -i node_latest_armhf.deb
-```
-
 ### Install CouchDB
 ```
 # Dependencies
